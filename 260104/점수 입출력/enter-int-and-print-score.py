@@ -1,2 +1,2 @@
-n = input("enter your age: ")
-print("your age is", n)
+n = input("Your score is ")
+print(n, "point.")
