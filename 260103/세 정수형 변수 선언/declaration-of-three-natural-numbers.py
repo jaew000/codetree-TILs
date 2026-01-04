@@ -1,2 +1,3 @@
-print("7","23",sep="+")
-print("30",end="=")
+a = 7
+b = 23
+print(f"{a} + {b} = {a + b}")
